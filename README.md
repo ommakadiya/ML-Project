@@ -1,9 +1,9 @@
 # ML-Project
 
-In this project, we have compare over 8 models which are :-
+In this project, we have compare over 9 models which are :-
 XGBoost
 CatBoost
-SVM
+SVM (RBF,POLY)
 LightBGM
 Random Forest
 BPANN
